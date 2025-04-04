@@ -61,8 +61,8 @@ for tariff exceptions and wait until the tariffs go away.
 And they will. This or another administration will do away with them, because the alternative is a United 
 States that is unable to compete technologically with the rest of the world. When Germany is manufacturing 
 products with parts and electronics sourced from the best global sources at the lowest possible prices, and 
-the United States is building lower-quality products at higher expense because we're hobbled by artifical 
-price controls, then Germany will sell to the world and we won't.
+the United States is building lower-quality products (we have to import the expertise that the original manufacturers
+already have) at higher expense because we're hobbled by artifical price controls, then Germany will sell to the world and we won't.
 
 So, prices will increase drastically, even for products that are primarily manufactured in the United States 
 already (due to the higher cost for intermediate goods), which will lower demand, leading to fewer jobs. 
