@@ -14,4 +14,4 @@ jobs:
           # Target branch
           PAGES_BRANCH: deployed
           # Provide personal access token
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.WEBSITE_TOKEN }}
