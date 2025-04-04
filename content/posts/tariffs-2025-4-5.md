@@ -14,7 +14,7 @@ tariffs are [so large](https://www.bbc.com/news/articles/c1jxrnl9xe2o) (25-55%),
 to raise their prices or go out of business, because the tariffs are larger than their profit margin. 
 Most people understand that this will happen, but they believe that this is a short-term pain for a longer 
 term gain. If the tariffs cost companies enough, they will bring their manufacturing facilities back to 
-the US, providing jobs and contributing to the local economy.
+the US, providing jobs and contributing to the local economy. 
 
 I don't believe that's the case and think that these people are vastly underestimating how 
 much pain the tariffs will cause.
