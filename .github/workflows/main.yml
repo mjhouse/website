@@ -12,6 +12,6 @@ jobs:
         uses: shalzz/zola-deploy-action@master
         env:
           # Target branch
-          PAGES_BRANCH: deployed
+          PAGES_BRANCH: gh-pages
           # Provide personal access token
           TOKEN: ${{ secrets.WEBSITE_TOKEN }}
