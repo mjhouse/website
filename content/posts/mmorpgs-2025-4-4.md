@@ -15,7 +15,7 @@ That's not to say that it's *bad*, really, but it's just not a particularly comp
 never caught up in thinking about the next thing I should do in the game while I'm not playing
 it, or trying (and failing) to convince myself to stop playing and do something more productive. 
 Unlike addictive drugs and better made games, where you tell yourself (and everyone else)
-that you can stop whenever you want, man, I swear- I can *actually* stop playing whenever I want, 
+that you can stop whenever you want, man, I swear- I actually *can* stop playing whenever I want, 
 because it's just not very engaging. I described it to a friend as "slightly more fun than 
 doing nothing at all", which about sums up the entire experience, I think.
 
