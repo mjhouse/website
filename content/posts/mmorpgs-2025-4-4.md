@@ -7,7 +7,7 @@ tags=["Tinker","Game Design","MMORPGs"]
 +++
 
 ![Level 1 MMO characters]( /website/images/lvl1_mmo_characters.jpg)
-<small>Just nine more crabs, man, and then I'll turn in the quest, get a beginners sword 
+<small>Just nine more giant crabs, man, and then I'll turn in the quest, get a beginners sword 
 and move on to killing giant rats...</small>
 
 I've been playing a lot of [Albion Online](https://albiononline.com/home). It's... not very good.
@@ -123,5 +123,5 @@ They should be able to point to a place in the world and tell their friends "see
 That's the skeleton of a dragon that someone accidentally unleashed. Fifty players banded together 
 and took it down after it destroyed two small villages."
 
-How to develop a game where that is possible is the real trick, and I think I'll be following up with 
-another post where I describe an approach that I think would work.
+Making that possible is the real trick, and I think I'll be following up with another post where I describe 
+an approach that I think would work.
