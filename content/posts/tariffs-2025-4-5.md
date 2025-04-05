@@ -6,7 +6,7 @@ draft = false
 tags=["Politics","Donald Trump","Tariffs"]
 +++
 
-![Trump holding up a list of tariffs](../../../images/trumps_tariffs.jpg)
+![Trump holding up a list of tariffs](/website/images/trumps_tariffs.jpg)
 <small>Trump holding up a list of reciprocal tariffs. Whether they're actually reciprocal or a
 [misunderstanding about trade deficits](https://www.factcheck.org/2025/04/trumps-misleading-tariff-chart/) 
 is left as an exercise to the reader.</small>
