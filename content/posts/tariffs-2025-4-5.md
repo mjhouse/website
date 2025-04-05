@@ -7,7 +7,7 @@ tags=["Politics","Donald Trump","Tariffs"]
 +++
 
 ![Trump holding up a list of tariffs](/website/images/trumps_tariffs.jpg)
-<small>Trump holding up a list of reciprocal tariffs. Whether they're actually reciprocal or a based on a
+<small>Whether these tariffs are actually reciprocal or based on a
 [misunderstanding about trade deficits](https://www.factcheck.org/2025/04/trumps-misleading-tariff-chart/) 
 is left as an exercise to the reader.</small>
 
@@ -43,11 +43,11 @@ Take semiconductors, a vital part of most modern electronic devices (including c
 of the manufacturing capability for these chips [is located in Taiwan](https://www.usitc.gov/publications/332/working_papers/us_exposure_to_the_taiwanese_semiconductor_industry_11-21-2023_508.pdf), which was just hit with a 32% tariff 
 on imports into the United States. These chips are made from proprietary designs using proprietary techniques, 
 are sold globally, and were never based in the US to begin with. They will not move their production to 
-the US and reproducing that manufacturing capability in the US would take decades to do; decades in which 
-the United States would find it impossible to make even simple electronic devices without great expense.
+the US and reproducing that manufacturing capability in the US would take years (if not a decade or more) to do; 
+years in which the United States would find it impossible to make even simple electronic devices without great expense.
 
-In addition, many of the goods affected by the tariffs are [elastic](https://en.wikipedia.org/wiki/Elasticity_(economics)), which means that as the price increases, 
-customers will turn to alternatives or refuse to buy the product altogether. Due to decreased demand, 
+In addition, many of the goods affected by the tariffs are [elastic](https://en.wikipedia.org/wiki/Elasticity_(economics)), 
+which means that as the price increases, customers will turn to alternatives or refuse to buy the product altogether. Due to decreased demand, 
 companies will downsize their manufacturing capability or lay off workers- there's no point in paying 
 people to make goods that no one is buying. This means that tariffs could *add* some jobs by forcing businesses 
 to reshore their production to the states, then *cost* us jobs by forcing businesses to raise prices and 
