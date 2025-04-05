@@ -1,8 +1,15 @@
 +++
-title = "Tariffs Won't Work"
+title = "Tariffs Probably Won't Work"
 date = 2025-04-04
 draft = false
+[taxonomies]
+tags=["Politics","Donald Trump","Tariffs"]
 +++
+
+![Trump holding up a list of tariffs](/images/trumps_tariffs.jpg)
+<small>Trump holding up a list of reciprocal tariffs. Whether they're actually reciprocal or a
+[misunderstanding about trade deficits](https://www.factcheck.org/2025/04/trumps-misleading-tariff-chart/) 
+is left as an exercise to the reader.</small>
 
 I've been thinking a lot about the tariffs that the Trump administration has recently put in place
 on imports into the US. I don't think that they'll work, and I think most reasonable people would
