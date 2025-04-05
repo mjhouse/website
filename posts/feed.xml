@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>blackpath</title>
+	<subtitle>Essays and notes about all sorts of things</subtitle>
+	<link href="https://mjhouse.github.io/website/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://mjhouse.github.io/website/posts/"/>
+	<updated>2025-04-05T00:00:00+00:00</updated>
+	<id>https://mjhouse.github.io/website/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Player Limitations in MMORPGs</title>
+		<published>2025-04-05T00:00:00+00:00</published>
+		<updated>2025-04-05T00:00:00+00:00</updated>
+		<link href="https://mjhouse.github.io/website/posts/mmorpgs-2025-4-4/" type="text/html"/>
+		<id>https://mjhouse.github.io/website/posts/mmorpgs-2025-4-4/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;website&#x2F;images&#x2F;lvl1_mmo_characters.jpg&quot; alt=&quot;Level 1 MMO characters&quot; &#x2F;&gt;
+&lt;small&gt;Just nine more giant crabs, man, and then I&#x27;ll turn in the quest, get a beginners sword
+and move on to killing giant rats...&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve been playing a lot of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;albiononline.com&#x2F;home&quot;&gt;Albion Online&lt;&#x2F;a&gt;. It&#x27;s... not very good.
+That&#x27;s not to say that it&#x27;s &lt;em&gt;bad&lt;&#x2F;em&gt;, really, but it&#x27;s just not a particularly compelling game. I&#x27;m
+never caught up in thinking about the next thing I should do in the game while I&#x27;m not playing
+it, or trying (and failing) to convince myself to stop playing and do something more productive.
+Unlike addictive drugs and better made games, where you tell yourself (and everyone else)
+that you can stop whenever you want, man, I swear- I can &lt;em&gt;actually&lt;&#x2F;em&gt; stop playing whenever I want,
+because it&#x27;s just not very engaging. I described it to a friend as &quot;slightly more fun than
+doing nothing at all&quot;, which about sums up the entire experience, I think.&lt;&#x2F;p&gt;
+&lt;p&gt;I do spend a lot of time thinking about how it could be made better, and for a while I had a document
+where I was listing all of the things that could be done to make the game more compelling. Some of
+those changes are listed below (if you don&#x27;t know anything about MMOs in general, or Albion Online
+in particular, feel free to skip the following list).&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Random monsters are scattered about the map, and they attack you when you&#x27;re travelling or gathering
+nearby. I would group them into camps and thin out the random individual monsters. It would make
+both travelling and gathering less annoying and would look much more natural.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Monsters attack you when you get too close, but in Albion, you have to get &lt;em&gt;very&lt;&#x2F;em&gt; close before they
+attack. It looks silly, but happens accidentally all the time because there are so many of them
+standing around. After I grouped them into camps, I would increase aggro distance to make camps
+more dangerous.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;When monsters attack you, their attacks &lt;em&gt;always&lt;&#x2F;em&gt; land. This is never more noticeable and aggravating
+than when you&#x27;re just running by and a golem takes a shambling swipe at you that lands when you&#x27;re
+already fifty feet away. For bonus annoyance, it also removes the speed buff that you get from
+riding. I would make attacks fail if you&#x27;re out of range.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Recalling to town in Albion costs money based on weight and distance to town, and takes you back
+to the last town you were in, rather than your home city. I would do away with this and add
+craftable recall scrolls that take you home (or maybe to a particular city).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;There were were more notes, but you get the idea. The recall problem, in particular, was grating to me-
+nothing about the game is improved by forcing players to pay increasingly large amounts to recall
+based on distance or weight carried. The only real reason it would be designed that way is to
+force players with no money to spend fifteen minutes running back to town, and allow players &lt;em&gt;with&lt;&#x2F;em&gt;
+money to avoid that annoyance. Maybe as a bid to push players toward paying real money for in-game
+gold? I don&#x27;t know. And because recalling takes you back to the last city you were in, &lt;em&gt;not&lt;&#x2F;em&gt; your
+home city, if you make the mistake of walking into a strange city a long way from home, your
+recall now takes you &lt;em&gt;there&lt;&#x2F;em&gt; instead of home.&lt;&#x2F;p&gt;
+&lt;p&gt;On the other hand, recall scrolls immediately make the game more interesting. If you&#x27;re poor, you
+can still avoid that run back to town with a little planning, but you have to invest some time in
+crafting scrolls, which could be interesting in it&#x27;s own right. If you&#x27;re rich, of course, you can
+just buy the scrolls from the auction house. If the scrolls are locked to a particular town instead
+of to the home city of the player who uses them, then things get even more interesting. Players
+would be able to buy scrolls for a particular city and transport them to another city to be sold for
+a profit, creating a niche market in fast-travel. You could even travel to dangerous and exotic
+locations to create recall scrolls and then sell them for a large profit in the main cities.&lt;&#x2F;p&gt;
+&lt;p&gt;Of course, Albion already has fast travel, and it&#x27;s provided by an NPC in each city who charges
+you based on weight. Presumably another attempt to push players toward purchasing in-game gold with
+real money.&lt;&#x2F;p&gt;
+&lt;p&gt;All of this got me thinking about creative constraints, and how they might drive interesting gameplay
+in an MMORPG.&lt;&#x2F;p&gt;
+&lt;p&gt;One good example of this are maps. In most MMORPGs, there&#x27;s a world map that the player can use to get
+an idea of where they are in the game, and where everything else is. It might be simplified or highly
+detailed, but it&#x27;s the same level of detail for all of the players at all times. You&#x27;re using the same
+map at max level as you are when you start the game. Imagine if, instead of being a constant part of
+the game, the map had to be &lt;em&gt;crafted&lt;&#x2F;em&gt;. Now you have a bunch of new, interesting ways that the players
+can interact with the game-&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;New players only have the sketchiest of ideas where they are and what else is out there, which makes
+the world seem big and mysterious.&lt;&#x2F;li&gt;
+&lt;li&gt;Players with the appropriate skills (scouts, cartographers and the like) would become valuable as
+party members because they could guide the group to dungeons or points of interest in the world.&lt;&#x2F;li&gt;
+&lt;li&gt;Players who can create maps have a reliable source of income that doesn&#x27;t rely on combat ability,
+&lt;em&gt;and&lt;&#x2F;em&gt; a good reason to go out and explore the world.&lt;&#x2F;li&gt;
+&lt;li&gt;The game has a new secondary market in maps of varying levels of detail, or with different features
+(think enchanted maps with resource locations).&lt;&#x2F;li&gt;
+&lt;li&gt;Acquiring rare or highly detailed maps would give players goals to work toward that are more nuanced
+and interesting than &quot;kill ten rats, XP number goes up&quot;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This one small constraint on the players opens up a world of options for interesting gameplay. This could
+become even more elaborate if the game designers really leaned into these new features. Players with pets could
+scout an area quickly and make highly detailed maps more easily. Players with particular skills might be
+able to create enchanted maps that not only show where buildings are, but have detailed information about
+resources and monsters. Maps could be bought piecemeal for different regions, making the world seem mysterious
+and large even to experienced players, when they venture outside of the areas where they normally play.&lt;&#x2F;p&gt;
+&lt;p&gt;The possiblities are endless.&lt;&#x2F;p&gt;
+&lt;p&gt;Of course, all of these features take time and effort on the part of the game developers, but even the
+simplest, most easily implemented version of this makes the game vastly more interesting. This general approach
+can be applied to any number of other cases in MMORPG game development, so much so that I feel that it&#x27;s
+almost a general rule, some sort of fundamental law of game design. I would be surprised if it&#x27;s not, and I
+suspect this is one of those things where an experienced and knowledgeable game designer would roll their
+eyes at me and say &quot;yeah, &lt;em&gt;we know&lt;&#x2F;em&gt;&quot;. I think it just strikes me like a revelation because I&#x27;m not an
+experienced and knowledgeable game designer.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Limiting the information that a player has, then providing a way to get that information through gameplay,
+makes the game more fun.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I recently started working on a design document for an MMORPG that I&#x27;d like to make at some point, and this
+rule features prominently in that design. While I don&#x27;t think I have the technical chops to make an MMO
+from scratch (in any reasonable amount of time), I needed some way to scratch the itch that I get in the back
+of my head when I&#x27;m playing games that are only slightly more interesting than doing nothing at all.&lt;&#x2F;p&gt;
+&lt;p&gt;The other major component of the MMORPG design (which is codenamed &quot;Tinker&quot; because, well, it&#x27;s just me
+&lt;em&gt;tinkering&lt;&#x2F;em&gt;) is to build a system where the world itself is slowly but constantly changing. I think this
+is something that MMORPGs in particular struggle with. World of Warcraft tries to do this by releasing new
+content at regular intervals, with repeatable quests and new regions. Other games try to do this by adding
+in some sort of faction warfare system where areas change hands between different (artificial, game-enforced)
+groups of players. Neither of these approaches really feels right to me, and I think some more drastic
+and organic system could be created that makes the game world seem more real. Vital. Flexible. Players should
+&lt;em&gt;actually&lt;&#x2F;em&gt; be able to affect the world in a way that makes a good story&lt;&#x2F;p&gt;
+&lt;p&gt;They should be able to point to a place in the world and tell their friends &quot;see that overgrown hill there?
+That&#x27;s the skeleton of a dragon that someone accidentally unleashed. Fifty players banded together
+and took it down after it destroyed two small villages.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Making that possible is the real trick, and I think I&#x27;ll be following up with another post where I describe
+an approach that I think would work.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Tariffs Probably Won&#x27;t Work</title>
+		<published>2025-04-04T00:00:00+00:00</published>
+		<updated>2025-04-04T00:00:00+00:00</updated>
+		<link href="https://mjhouse.github.io/website/posts/tariffs-2025-4-5/" type="text/html"/>
+		<id>https://mjhouse.github.io/website/posts/tariffs-2025-4-5/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;website&#x2F;images&#x2F;trumps_tariffs.jpg&quot; alt=&quot;Trump holding up a list of tariffs&quot; &#x2F;&gt;
+&lt;small&gt;Trump holding up a list of reciprocal tariffs. Whether they&#x27;re actually reciprocal or a based on a
+&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.factcheck.org&#x2F;2025&#x2F;04&#x2F;trumps-misleading-tariff-chart&#x2F;&quot;&gt;misunderstanding about trade deficits&lt;&#x2F;a&gt;
+is left as an exercise to the reader.&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve been thinking a lot about the tariffs that the Trump administration has recently put in place
+on imports into the US. I don&#x27;t think that they&#x27;ll work, and I think most reasonable people would
+probably come to the same conclusion. I know people who disagree with me though, and I thought it
+was important that I try to outline and clarify &lt;em&gt;why&lt;&#x2F;em&gt; I don&#x27;t think the tariffs would work.&lt;&#x2F;p&gt;
+&lt;p&gt;Companies will raise the price of their products to offset the loss from the tariffs. Because the
+tariffs are &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c1jxrnl9xe2o&quot;&gt;so large&lt;&#x2F;a&gt; (25-55%), they will likely &lt;em&gt;have&lt;&#x2F;em&gt;
+to raise their prices or go out of business, because the tariffs are larger than their profit margin.
+Most people understand that this will happen, but they believe that this is a short-term pain for a longer
+term gain. If the tariffs cost companies enough, they will bring their manufacturing facilities back to
+the US, providing jobs and contributing to the local economy.&lt;&#x2F;p&gt;
+&lt;p&gt;I don&#x27;t believe that&#x27;s the case and think that these people are vastly underestimating how
+much pain the tariffs will cause.&lt;&#x2F;p&gt;
+&lt;p&gt;These tariffs apply to almost every country that we do business with and almost every industry that we trade in.
+This means that not only are &lt;em&gt;cars&lt;&#x2F;em&gt; subject to these tariffs, but the metal, plastic, and electronics that
+go into &lt;em&gt;making&lt;&#x2F;em&gt; cars are as well. These are called &quot;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Intermediate_good&quot;&gt;intermediate goods&lt;&#x2F;a&gt;&quot;,
+and almost every product that we buy is manufactured from them (if there are companies that own their manufacturing process all
+the way from mining the raw materials to selling the products, I&#x27;ve never heard of them).&lt;&#x2F;p&gt;
+&lt;p&gt;So the tariffs are applied to cars, the components of the cars, &lt;em&gt;and&lt;&#x2F;em&gt; the raw materials that all of those
+intermediate goods are made out of. That means that even if a car manufacturer moves facilities to the US,
+they&#x27;ll still be paying higher prices for the upstream materials. So we just reshore the component
+manufacturing too, right? That will fix it, and bring even &lt;em&gt;more&lt;&#x2F;em&gt; jobs to the US. Except the component
+manufacturers will still be paying higher prices for the materials that &lt;em&gt;they&lt;&#x2F;em&gt; need to make the components,
+and so on. At some point, we reach economic bedrock and it becomes impossible to continue this series of moves.&lt;&#x2F;p&gt;
+&lt;p&gt;Take semiconductors, a vital part of most modern electronic devices (including cars), as an example. 92%
+of the manufacturing capability for these chips &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.usitc.gov&#x2F;publications&#x2F;332&#x2F;working_papers&#x2F;us_exposure_to_the_taiwanese_semiconductor_industry_11-21-2023_508.pdf&quot;&gt;is located in Taiwan&lt;&#x2F;a&gt;, which was just hit with a 32% tariff
+on imports into the United States. These chips are made from proprietary designs using proprietary techniques,
+are sold globally, and were never based in the US to begin with. They will not move their production to
+the US and reproducing that manufacturing capability in the US would take decades to do; decades in which
+the United States would find it impossible to make even simple electronic devices without great expense.&lt;&#x2F;p&gt;
+&lt;p&gt;In addition, many of the goods affected by the tariffs are &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Elasticity_(economics)&quot;&gt;elastic&lt;&#x2F;a&gt;, which means that as the price increases,
+customers will turn to alternatives or refuse to buy the product altogether. Due to decreased demand,
+companies will downsize their manufacturing capability or lay off workers- there&#x27;s no point in paying
+people to make goods that no one is buying. This means that tariffs could &lt;em&gt;add&lt;&#x2F;em&gt; some jobs by forcing businesses
+to reshore their production to the states, then &lt;em&gt;cost&lt;&#x2F;em&gt; us jobs by forcing businesses to raise prices and
+reduce production to meet the lower demand for more expensive products.&lt;&#x2F;p&gt;
+&lt;p&gt;So the tariffs will likely cause companies to raise prices on their products permanently or semi-permanently,
+because their intermediate goods will become more expensive, which will lead (in many cases) to decreased
+demand and a reduction in manufacturing jobs in the US. But will they still build more factories and plants
+in the states?&lt;&#x2F;p&gt;
+&lt;p&gt;Probably not.&lt;&#x2F;p&gt;
+&lt;p&gt;Companies will be weighing the expense of building and maintaining factories in the United States (which
+may become entirely pointless when the tariffs are removed or reduced) against lost profits from higher
+prices and reduced demand. It seems clear that the optimal path, from their point of view, is to lobby
+for tariff exceptions and wait until the tariffs go away.&lt;&#x2F;p&gt;
+&lt;p&gt;And they will. This or another administration will do away with them, because the alternative is a United
+States that is unable to compete technologically with the rest of the world. When Germany is manufacturing
+products with parts and electronics sourced from the best global sources at the lowest possible prices, and
+the United States is building lower-quality products (we have to import the expertise that the original manufacturers
+already have) at higher expense because we&#x27;re hobbled by artifical price controls, then Germany will sell to the world and we won&#x27;t.&lt;&#x2F;p&gt;
+&lt;p&gt;So, prices will increase drastically, even for products that are primarily manufactured in the United States
+already (due to the higher cost for intermediate goods), which will lower demand, leading to fewer jobs.
+The companies most affected by the tariffs just have to wait out the tariffs, which they &lt;em&gt;can&lt;&#x2F;em&gt;, because permanent
+tariffs would lead to a crippled US economy relative to the rest of the world, and a future administration
+would likely understand this. In the meantime, they can lobby for exceptions and make token moves to placate
+the US government.&lt;&#x2F;p&gt;
+&lt;p&gt;This is why I don&#x27;t believe that the tariffs will work.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
