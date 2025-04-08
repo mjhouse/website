@@ -6,7 +6,7 @@ draft = false
 tags=["Tinker","Game Design","MMORPGs"]
 +++
 
-![Level 1 MMO characters]( /website/images/lvl1_mmo_characters.jpg)
+![Level 1 MMO characters]({{ image(name="lvl1_mmo_characters.jpg") }})
 <small>Just nine more giant crabs, man, and then I'll turn in the quest, get a beginners sword 
 and move on to killing giant rats...</small>
 

@@ -1,0 +1,1 @@
+{% if config.base_url is starting_with("http://127.0.0.1") or config.base_url is starting_with("http://localhost") %}/images/{{name}}{% else %}/website/images/{{name}}{% endif %}
