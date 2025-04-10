@@ -40,7 +40,7 @@ manufacturers will still be paying higher prices for the materials that *they* n
 and so on. At some point, we reach economic bedrock and it becomes impossible to continue this series of moves. 
 
 Take semiconductors, a vital part of most modern electronic devices (including cars), as an example. 92%
-of the manufacturing capability for these chips [is located in Taiwan](https://www.usitc.gov/publications/332/working_papers/us_exposure_to_the_taiwanese_semiconductor_industry_11-21-2023_508.pdf), which was just hit with a 32% tariff 
+of the global manufacturing capability for these chips [is located in Taiwan](https://www.usitc.gov/publications/332/working_papers/us_exposure_to_the_taiwanese_semiconductor_industry_11-21-2023_508.pdf), which was just hit with a 32% tariff 
 on imports into the United States. These chips are made from proprietary designs using proprietary techniques, 
 are sold globally, and were never based in the US to begin with. They will not move their production to 
 the US and reproducing that manufacturing capability in the US would take years (if not a decade or more) to do; 
@@ -69,7 +69,7 @@ And they will. This or another administration will do away with them, because th
 States that is unable to compete technologically with the rest of the world. When Germany is manufacturing 
 products with parts and electronics sourced from the best global sources at the lowest possible prices, and 
 the United States is building lower-quality products (we have to import the expertise that the original manufacturers
-already have) at higher expense because we're hobbled by artifical price controls, then Germany will sell to the world and we won't.
+already have) at higher expense because we're hobbled by artificial price controls, then Germany will sell to the world and we won't.
 
 So, prices will increase drastically, even for products that are primarily manufactured in the United States 
 already (due to the higher cost for intermediate goods), which will lower demand, leading to fewer jobs. 
