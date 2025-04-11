@@ -13,10 +13,77 @@
   <meta name="description" content="{{ desc }}">
 {% endblock desc %}
 
+{% block head %}
+<script src="/search_index.en.js"></script>
+<script src="/js/fuse.js"></script>
+{% endblock head %}
+
+{% block script %}
+<script>
+
+  // initialize the search handler
+  const fuse = new Fuse(window.searchIndex, {
+    keys: ['title','body']
+  });
+
+  // get the input element and post-list elements
+  const input = document.getElementById('search-input');
+  const parents = Array.from(document.getElementsByClassName('post-list'));
+
+  // listen for input events on the input element
+  input.addEventListener('input', function(event) {
+    const term = event.target.value.trim();
+    const items = fuse.search(term);
+
+    // remap the search results into a simpler data structure
+    // so we can use it to rank/hide relevant posts
+    let results = new Map(items.map((value, index) => [
+      value.item.title.trim(), 
+      index
+    ]));
+
+    // iterate through all parent elements
+    for(let i = 0; i < parents.length; ++i) {
+      const parent = parents[i];
+      const children = Array.from(parent.children);
+
+      children.sort((a, b) => {
+        // if no search term is given, then sort by
+        // the original rank of the child and make 
+        // them all visible
+        if(term == "") {
+          a.classList.remove('search-hidden');
+          b.classList.remove('search-hidden');
+          const rankA = parseInt(a.dataset.rank);
+          const rankB = parseInt(b.dataset.rank);
+          return rankA - rankB;
+        } 
+        // if a search term is given, then sort by
+        // the result index and set posts visible if
+        // they're in the result map
+        else {
+          a.classList.toggle('search-hidden',!results.has(a.dataset.title));
+          b.classList.toggle('search-hidden',!results.has(b.dataset.title));
+          const rankA = results.get(a.dataset.title) || 0;
+          const rankB = results.get(b.dataset.title) || 0;
+          return rankA - rankB;
+        }
+      });
+
+      parent.innerHTML = '';
+      children.forEach(item => parent.appendChild(item));
+    }
+  });
+</script>
+{% endblock script %}
+
 {% block content %}
 <div id="wrapper">
   {{ macros::back_link(path = get_url(path="/")) }}
   {% include "_section_title.html" %}
+  <div class="search-input" id="search-input">
+    <input type="text" placeholder="Search">
+  </div>
   <main class="layout-list">
     {% if section.extra.categorized %}
     {% for category,posts in section.pages | sort(attribute="taxonomies.categories.0") | group_by(attribute="taxonomies.categories.0") %}
@@ -27,8 +94,8 @@
     <h2 class="category">{{ category_name }}</h2>
     <div class="post-list categorized">
       {% for post in posts %}
-      <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
-        <span>{{ post.title }}</span>
+      <a data-title="{{ post.title }}" data-rank="{{ loop.index }}" class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
+        <span class="title">{{ post.title }}</span>
         <span class="date">{{ post.date | date(format=section.extra.date_format) }}</span>
       </a>
       {% endfor %}
@@ -37,8 +104,8 @@
     {% else %}
     <div class="post-list">
       {% for post in section.pages %}
-      <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
-        <span>{{ post.title }}</span>
+      <a data-title="{{ post.title }}" data-rank="{{ loop.index }}" class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
+        <span class="title">{{ post.title }}</span>
         <span class="date">{{ post.date | date(format=section.extra.date_format) }}</span>
       </a>
       {% endfor %}

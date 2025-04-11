@@ -4,8 +4,8 @@ description = "A place to keep essays and notes on various topics"
 default_language = "en"
 output_dir = "public"
 compile_sass = true
-minify_html = false # Keep this false, as it may cause issues with some styles
-build_search_index = false # Keep this false, search is temporarily unsupported
+minify_html = true # Keep this false, as it may cause issues with some styles
+build_search_index = true # Keep this false, search is temporarily unsupported
 generate_feeds = false # Whether to generate a feed file in root, read docs for more info about rss feed
 feed_filenames = ["feed.xml"] # "feed.xml" | "atom.xml" | "rss.xml", read docs for more info
 taxonomies = [
@@ -22,7 +22,7 @@ highlight_themes_css = [
   { theme = "serene-dark", filename = "hl-dark.css" },
 ]
 render_emoji = false
-external_links_target_blank = false
+external_links_target_blank = true
 external_links_no_follow = true
 external_links_no_referrer = true
 smart_punctuation = false
@@ -33,6 +33,9 @@ taxonomies = "on"
 anchors = "on"
 
 #=========================================================================================
+
+[search]
+index_format = "fuse_javascript" # or "fuse_json"
 
 [extra]
 

@@ -24,15 +24,6 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-I'm a programmer and sometimes essayist who reads far too much cheap fantasy and
-sci-fi to be entirely healthy. I was raised in transit and homeschooled until
-joining the US Army, where I spent my time trying to find IEDs in a large desert
-before returning to school to get a bachelors in Computer Science. At this point
-I've worked on almost any type of software you can imagine, from web apps to
-embedded cybersecurity tools. I also program for fun and spend a lot of time 
-thinking about how we can improve the world through code and technology. And I mean
-*really* improve it, not just make another social impact app. 
+I'm a programmer and sometimes essayist who reads far too much fantasy and sci-fi to be entirely healthy. 
 
-If you want to hear way too much about transit design, feel free to ask me how 
-southern cities in the US could transition to widespread public transit despite 
-their sprawling, car-centric design.
+I was raised in transit and homeschooled until I joined the US Army, where I spent a fair amount of time trying  to find IEDs in a large desert before returning to school to get a bachelors in Computer Science and then a job as a software developer. I write code, essays, and short stories for fun, and spend a lot of time thinking about things no one else really cares about. This blog is an effort to centralize some of those essays and stories into one place, and it gives me another project to work on when I don't feel like telling stories. 

@@ -1176,6 +1176,27 @@ header {
   }
 }
 
+.search-input {
+  padding: 15px;
+  input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid transparent;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+
+    &:focus {
+      border: 1px solid rgb(112, 112, 112);  
+    }
+  }
+}
+
+.search-hidden {
+  display: none !important;
+}
+
 /* rss mask
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
