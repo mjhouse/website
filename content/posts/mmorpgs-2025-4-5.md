@@ -6,9 +6,7 @@ draft = false
 tags=["Tinker","Game Design","MMORPGs"]
 +++
 
-![Level 1 MMO characters](/images/lvl1_mmo_characters.jpg)
-<small>Just nine more giant crabs, man, and then I'll turn in the quest, get a beginners sword 
-and move on to killing giant rats...</small>
+{{ figure(src="/images/lvl1_mmo_characters.jpg", alt="A man with a stick fighting crabs", caption="Just nine more giant crabs, man, and then I'll turn in the quest, get a beginners sword and move on to killing giant rats...") }}
 
 I've been playing a lot of [Albion Online](https://albiononline.com/home). It's... not very good.
 That's not to say that it's *bad*, really, but it's just not a particularly compelling game. I'm

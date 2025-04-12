@@ -6,8 +6,7 @@ draft = false
 tags=["Tinker","Game Design","MMORPGs"]
 +++
 
-![Wizard casting a spell](/images/wizard_casting.jpg)
-<small>Fireball level 2, same as fireball level 1 but with 23% more particle effects.</small>
+{{ figure(src="/images/wizard_casting.jpg", alt="A wizard casting a spell", caption="Fireball level 2, same as fireball level 1 but with 23% more particle effects.") }}
 
 In a [previous post](@/posts/mmorpgs-2025-4-5.md), I promised that I would try to lay out a way that an MMORPG could have an ever changing world. Monsters and herds of animals should slowly migrate, dungeons should change or even gradually empty and become abandoned before disappearing entirely, forests could spread or shrink as players harvest wood, and rivers would flood or even change course in response to in-game events.
 
@@ -29,8 +28,7 @@ Table top games like [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons
 
 So why not reintroduce them to MMORPGs?
 
-![Albion Online World Map](/images/albion_map.jpeg)
-<small>The world map of Albion Online with five rough regions that each have different terrain, biomes, and monsters. Image taken from a quick google search.</small>
+{{ figure(src="/images/albion_map.jpeg", alt="The world map of Albion Online", caption="The world map of Albion Online with five rough regions that each have different terrain, biomes, and monsters. Image taken from a quick google search.") }}
 
 We can divide the world map of our hypothetical game up into regions, each of which is managed by one or two game masters, and give them creative control over the dungeons, monsters, resources, and quests in their region. They would, in a way, be "playing" the game, except their goals would be different from that of the player. They would be trying to provide fresh and interesting experiences, to tell little stories through the game world that players can discover, and occasionally work together to tell larger narratives.
 
