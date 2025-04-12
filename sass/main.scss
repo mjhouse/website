@@ -1362,6 +1362,11 @@ body.post {
     justify-content: space-between;
   }
 
+  .video > iframe {
+    width: 100%;
+    height: 400px;
+  }
+
   article {
     padding: 0 15px 2em;
 

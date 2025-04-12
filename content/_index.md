@@ -26,4 +26,6 @@ date_format = "%b %-d, %Y"
 
 I'm a programmer and sometimes essayist who reads far too much fantasy and sci-fi to be entirely healthy. 
 
-I was raised in transit and homeschooled until I joined the US Army, where I spent a fair amount of time trying  to find IEDs in a large desert before returning to school to get a bachelors in Computer Science and then a job as a software developer. I write code, essays, and short stories for fun, and spend a lot of time thinking about things no one else really cares about. This blog is an effort to centralize some of those essays and stories into one place, and it gives me another project to work on when I don't feel like telling stories. 
+I was raised in transit and homeschooled until I joined the US Army, where I spent a fair amount of time trying  to find IEDs in a large desert before returning to school to get a bachelors in Computer Science and then a job as a software developer. I write code, essays, and short stories for fun, and spend a lot of time thinking about things no one else really cares about. 
+
+This blog is an effort to centralize some of those essays and stories into one place, and it gives me another project to work on when I don't feel like telling stories. 
