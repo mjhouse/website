@@ -1,4 +1,3 @@
-
 +++
 title = "Media Manipulation With AI"
 date = 2025-04-12
