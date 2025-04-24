@@ -6,6 +6,8 @@ draft = false
 tags=["Fiction","Story"]
 +++
 
+[previous chapter](@/posts/2025-4-22-the-toymaker.md)
+
 Dotton was a backwater. It was a small village surrounded by rolling hills, rocky fields, and crooked forests, backed up against a mountain range to the northwestern edge of the continent. Beyond the mountains were sheer cliffs running down to a dangerous and unpredictable coastline where nothing of importance could be found. There were no great trading routes, no strategic features that an enemy might want to secure, no great wealth of knowledge. The King knew this, his advisors knew this, the lords and ladies surrounding the royal court (if they had ever heard of Dotton at all) knew this, and the residents of Dotton knew this. 
 
 They didn't mind at all.

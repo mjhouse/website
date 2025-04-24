@@ -69,3 +69,5 @@ Gage grunted, still annoyed.
 Rog ducked his head and muttered something that might have been "sorry", "yessir" or some combination of the two. Mollified, Gage relented, exhaling heavily and shaking his head.
 
 "Now grab me some stock. We've got a plow to make." He said, in a calmer tone. Rog hurried to obey.
+
+[next chapter](@/posts/2025-4-24-the-toymaker.md)
