@@ -27,18 +27,19 @@ If you have some motivation to disregard a thousand deaths on the other side of 
 
 But I'm not putting forth the effort to *give a damn* about them in the same way those students gave a damn about a pencil named "Steve".
 
-Why does this matter? What the hell does this have to do with vegetarianism? It matters because I think that animals have moral weight. And I think most people agree with me. If I were walking down the street, and I caught sight of a guy in an alleyway breaking a rock with a hammer, I would... probably wonder why he was doing that. If I were walking down the street and saw a guy in an alleyway beating a *dog* with a hammer, I would immediately try to stop him, probably by pulling him away or shouting at him. If I saw a guy beating a *person* with a hammer, I wouldn't bother shouting- I'd just club him from behind immediately. It feels like two of these situations are morally relevant, and one isn't. But you see the spectrum here- rocks < animals < people.
+Why does this matter? What the hell does this have to do with vegetarianism? It matters because I think that animals have moral weight. And I think most people agree with me. If I were walking down the street, and I caught sight of a guy in an alleyway breaking a rock with a hammer, I would... probably wonder why he was doing that. If I were walking down the street and saw a guy in an alleyway beating a *dog* with a hammer, I would immediately try to stop him, probably by pulling him away or shouting at him. If I saw a guy beating a *person* with a hammer, I wouldn't bother shouting- I'd just club him from behind immediately. It feels like two of these situations are morally relevant, and one isn't. But you see the spectrum here: rocks < animals < people.
 
 If animals have moral weight, then their suffering and death is *wrong*. Maybe not quite as wrong as an equivalent number of people suffering and dying, but wrong all the same. So far this year, the United States has slaughtered 17 billion animals. If it's wrong to harm and kill animals, then harming and killing *17 billion* of them[^6] is roughly 17 billion times as wrong. And any amount of moral weight at all, when multiplied by 17 billion, is *a lot*.
 
-And I don't feel a thing.
+I don't feel a thing.
 
 If killing one animal is wrong and we're killing 17 billion of them and I *don't care*, then it's probably because I'm not reacting appropriately to the scope of what is happening. So what would I do if I *did* feel the appropriate amount of horror at that knowledge? Well, I'd do whatever I could to stop it. I could bomb slaughter houses. I could protest. I could do all sorts of things, and many of them would lead to jail time or at least seriously impact my ability to keep a job and provide for my family. At the very least, the *very least*, I could refuse to participate.
 
 And when I say that it's the least I could do, I really mean it. It didn't require any difficult decisions. I'm not struggling to feed myself in a wilderness. I'm not scrabbling for every bit of energy I can get. I'm a reasonably well-paid professional in the richest country that has ever existed. I can eat out whenever I want, and there is almost always non-meat food that I can eat- more than there has ever been before, actually.
 
-It was, and remains, a simple decision for me. Do I enjoy a *few more* kinds of food, and participate in a widespread, immoral practice, or accept a mild inconvenience in the hope that my trivial rejection of that practice leads to less death?
+So the question is, do I enjoy a *few more* kinds of food, and participate in a widespread immoral practice, or accept a mild inconvenience in the hope that my trivial rejection of that practice leads to less death?
 
+It was, and remains, a simple decision for me.
 
 [^1]: This is a personal definition. I'm not formally educated in any of this, and I'm taking what seems useful and discarding everything that seems pedantic or pointless.
 
