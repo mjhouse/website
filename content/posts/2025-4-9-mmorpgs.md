@@ -8,7 +8,7 @@ tags=["Tinker","Game Design","MMORPGs"]
 
 {{ figure(src="/images/wizard_casting.jpg", alt="A wizard casting a spell", caption="Fireball level 2, same as fireball level 1 but with 23% more particle effects.") }}
 
-In a [previous post](@/posts/mmorpgs-2025-4-5.md), I promised that I would try to lay out a way that an MMORPG could have an ever changing world. Monsters and herds of animals should slowly migrate, dungeons should change or even gradually empty and become abandoned before disappearing entirely, forests could spread or shrink as players harvest wood, and rivers would flood or even change course in response to in-game events.
+In a [previous post](@/posts/2025-4-5-mmorpgs.md), I promised that I would try to lay out a way that an MMORPG could have an ever changing world. Monsters and herds of animals should slowly migrate, dungeons should change or even gradually empty and become abandoned before disappearing entirely, forests could spread or shrink as players harvest wood, and rivers would flood or even change course in response to in-game events.
 
 This is tricky, because it's almost impossible to implement convincingly if you want to do it automatically, and game developers are understandably nervous about creating games that require constant human oversight to run. I think the dangers of building a game that has to be managed is worth the risk when it comes to MMORPGs, because these games *already* require constant oversight.
 

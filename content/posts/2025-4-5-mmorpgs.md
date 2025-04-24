@@ -124,4 +124,4 @@ and took it down after it destroyed two small villages."
 Making that possible is the real trick, and I think I'll be following up with another post where I describe 
 an approach that I think would work.
 
-<small>The next post is available [here](@/posts/mmorpgs-2025-4-9.md)</small>
+<small>The next post is available [here](@/posts/2025-4-9-mmorpgs.md)</small>
