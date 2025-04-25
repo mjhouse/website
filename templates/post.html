@@ -120,7 +120,61 @@
         </blockquote>
         {% endif %}
 
+        {% if page.extra.prev or page.extra.next %}
+          <div class="series top">
+            {% set prev_url = "" %}
+            {% set next_url = "" %}
+
+            {% if page.extra.prev %}
+              {% set prev_url = "posts/" ~ page.extra.prev %}
+            {% endif %}
+
+            {% if page.extra.next %}
+              {% set next_url = "posts/" ~ page.extra.next %}
+            {% endif %}
+
+            <div class="series_links">
+              <a class="{% if not prev_url %}disabled{% endif %}" aria-label="Previous post" {% if prev_url %}href="{{ get_url(path=prev_url) }}/"{% endif %}>
+                &larr; prev
+              </a>
+              <small>
+                part of the "{{page.extra.series}}" series
+              </small>
+              <a class="{% if not next_url %}disabled{% endif %}" aria-label="Next post" {% if next_url %}href="{{ get_url(path=next_url) }}/"{% endif %}>
+                next &rarr;
+              </a>
+            </div>
+          </div>
+        {% endif %}
+
         {{ page.content | safe }}
+
+        {% if page.extra.prev or page.extra.next %}
+          <div class="series bot">
+            {% set prev_url = "" %}
+            {% set next_url = "" %}
+
+            {% if page.extra.prev %}
+              {% set prev_url = "posts/" ~ page.extra.prev %}
+            {% endif %}
+
+            {% if page.extra.next %}
+              {% set next_url = "posts/" ~ page.extra.next %}
+            {% endif %}
+
+            <div class="series_links">
+              <a class="{% if not prev_url %}disabled{% endif %}" aria-label="Previous post" {% if prev_url %}href="{{ get_url(path=prev_url) }}/"{% endif %}>
+                &larr; prev
+              </a>
+              <small>
+                part of the "{{page.extra.series}}" series
+              </small>
+              <a class="{% if not next_url %}disabled{% endif %}" aria-label="Next post" {% if next_url %}href="{{ get_url(path=next_url) }}/"{% endif %}>
+                next &rarr;
+              </a>
+            </div>
+          </div>
+        {% endif %}
       </article>
 
       {% if page.extra.reaction is defined %}{% set show_reaction = page.extra.reaction %}{% else %}{% set show_reaction = config.extra.reaction %}{% endif %}
@@ -146,6 +200,26 @@
 <script src="/js/tippy.min.js"></script>
 
 <script>
+  const referrer = document.referrer;
+  const domain = window.location.origin;
+
+  console.log(referrer);
+  
+  // if the visitor is coming from offsite, then remove
+  // the lastUrl from local storage
+  if(!!referrer && !referrer.includes(domain)){
+    localStorage.removeItem('lastUrl');
+  }
+
+  const backButton = document.getElementById('backlink');
+  const lastUrl = localStorage.getItem('lastUrl');
+
+  // if a backlink has been set in local storage, then update
+  // the actual button on the page to go there
+  if(lastUrl != null) {
+    backButton.href = lastUrl;
+  }
+
   const links = document.getElementsByClassName('footnote-reference');
   const notes = document.getElementsByClassName('footnote-definition');
 

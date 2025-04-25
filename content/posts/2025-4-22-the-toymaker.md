@@ -1,9 +1,12 @@
 +++
-title = "The Toymaker (1)"
+title = "A Wizard Comes To Town"
 date = 2025-04-22
 draft = false
 [taxonomies]
 tags=["Fiction","Story"]
+[extra]
+next = '2025-4-24-the-toymaker'
+series = 'The Toymaker'
 +++
 
 Gage had never met a wizard before. Most people who lived in Dotton and the farmland that surrounded the small village hadn't, so it was no surprise that Gage, being one of those people, hadn't either. Wizards were solitary creatures, often compared to dragons- powerful, reclusive, and mysterious. Unlike dragons, they generally had a firm relationship with the King through their various schools and trade organizations. The kingdom sometimes called on them for services, but for the most part, their power, and the power of their guild, kept them independent. Gage, despite having never met an actual wizard before, *had* heard any number of stories. Wizards in their wrath, laying waste to cities. Wizards providing valuable but indirect support to young fools with magical swords. Wizards defending kingdoms, or going bad and being defended against.
@@ -69,5 +72,3 @@ Gage grunted, still annoyed.
 Rog ducked his head and muttered something that might have been "sorry", "yessir" or some combination of the two. Mollified, Gage relented, exhaling heavily and shaking his head.
 
 "Now grab me some stock. We've got a plow to make." He said, in a calmer tone. Rog hurried to obey.
-
-[next chapter](@/posts/2025-4-24-the-toymaker.md)

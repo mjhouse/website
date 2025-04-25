@@ -4,6 +4,9 @@ date = 2025-04-05
 draft = false
 [taxonomies]
 tags=["Tinker","Game Design","MMORPGs"]
+[extra]
+next = '2025-4-9-mmorpgs'
+series = 'Organic MMORPGs'
 +++
 
 {{ figure(src="/images/lvl1_mmo_characters.jpg", alt="A man with a stick fighting crabs", caption="Just nine more giant crabs, man, and then I'll turn in the quest, get a beginners sword and move on to killing giant rats...") }}
@@ -123,5 +126,3 @@ and took it down after it destroyed two small villages."
 
 Making that possible is the real trick, and I think I'll be following up with another post where I describe 
 an approach that I think would work.
-
-<small>The next post is available [here](@/posts/2025-4-9-mmorpgs.md)</small>

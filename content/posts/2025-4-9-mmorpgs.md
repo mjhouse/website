@@ -4,6 +4,9 @@ date = 2025-04-09
 draft = false
 [taxonomies]
 tags=["Tinker","Game Design","MMORPGs"]
+[extra]
+prev = '2025-4-5-mmorpgs'
+series = 'Organic MMORPGs'
 +++
 
 {{ figure(src="/images/wizard_casting.jpg", alt="A wizard casting a spell", caption="Fireball level 2, same as fireball level 1 but with 23% more particle effects.") }}

@@ -1,0 +1,17 @@
+<div class="entry">
+    <div class="indicator {% if highlight %}highlight{% endif %}"></div>
+    {% if quote %}
+    <div class="note {% if speaker %}darken{% endif %}">
+        <div class="header">
+            {% if date %}<span class="date">{{date}}</span>{% endif %}
+            {% if source %}<a href="{{source}}" class="link" target="_blank">source</a>{% endif %}
+        </div>
+        <p class="body">
+            {% if speaker %}"{% endif %}{{ quote }}{% if speaker %}"{% endif %}
+        </p>
+        <div class="source">
+            {% if speaker %}- {{speaker}}{% endif %}
+        </div>
+    </div>
+    {% endif %}
+</div>

@@ -42,7 +42,7 @@ index_format = "fuse_javascript" # or "fuse_json"
 sections = [
   { name = "posts", path = "/posts", is_external = false },
   { name = "tags", path = "/tags", is_external = false },
-  # { name = "github", path = "https://github.com/<your-username>", is_external = true },
+  { name = "series", path = "/series", is_external = false },
 ]
 blog_section_path = "/posts"
 

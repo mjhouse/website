@@ -16,10 +16,13 @@
 {% block head %}
 <script src="/search_index.en.js"></script>
 <script src="/js/fuse.js"></script>
+<script src="/js/popper.min.js"></script>
+<script src="/js/tippy.min.js"></script>
 {% endblock head %}
 
 {% block script %}
 <script>
+  localStorage.removeItem('lastUrl');
 
   // initialize the search handler
   const fuse = new Fuse(window.searchIndex, {
@@ -29,6 +32,11 @@
   // get the input element and post-list elements
   const input = document.getElementById('search-input');
   const parents = Array.from(document.getElementsByClassName('post-list'));
+
+  tippy(input, {
+    content: "Search titles and content",
+    placement: 'left',
+  });
 
   // listen for input events on the input element
   input.addEventListener('input', function(event) {
@@ -115,3 +123,4 @@
   {% include "_footer.html" %}
 </div>
 {% endblock content %}
+
