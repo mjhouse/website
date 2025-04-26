@@ -81,12 +81,33 @@
       </div>
     </section>
     <section id="brief" class="prose">
+      <h1 class="title">About</h1>
       {{ section.content | trim | safe }}
     </section>
-    {% if section.extra.recent %}
+
     {% set blog_section_path = config.extra.blog_section_path | trim_start_matches(pat="/") %}
     {% set section_md_path = blog_section_path ~ "/_index.md" %}
     {% set blog_section = get_section(path=section_md_path) %}
+
+    <section class="layout-list">
+      <h1 class="title">Pinned</h1>
+      <div class="post-list">
+        {% for post in blog_section.pages %}
+        {% if post.extra.pinned %}
+        <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
+          <span>{{ post.title }}</span>
+          <span class="line"></span>
+          <span class="date">{{ post.date | date(format=section.extra.date_format) }}</span>
+        </a>
+        {% endif %}
+        {% endfor %}
+      </div>
+      <div class="read-more">
+        <a class="instant" href="{{ config.extra.blog_section_path }}">{{ section.extra.recent_more_text }}</a>
+      </div>
+    </section>
+
+    {% if section.extra.recent %}
     <section class="layout-list">
       <div class="post-list">
         {% for post in blog_section.pages | slice(end=section.extra.recent_max) %}

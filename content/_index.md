@@ -28,7 +28,7 @@ This blog is a place for me to keep essays, short fiction, and notes on anything
 
 I find it's a lot easier to organize my thoughts and figure out what I believe when I write it down, so I do that. Mostly, it means condensing a jumble of vague impressions, estimates, and half-remembered facts into a slightly less jumbled essay that careens around in search of a conclusion, but it's *something*.
 
-I'm constantly tweaking and adding little features to the blog- I started with a theme called [serene](https://github.com/isunjn/serene) and then cannibalized it into the main codebase. I added a search bar on the "posts" page, popup tooltips with footnotes, and a few other things. At some point I'll refactor everything so that the code is a little neater, but it works for now.
+I'm constantly tweaking and adding little features to the blog. I started with a theme called [serene](https://github.com/isunjn/serene) and then cannibalized it into the main codebase. I added a search bar on the "posts" page, popup tooltips with footnotes, and a few other things. At some point I'll refactor everything so that the code is a little neater, but it works for now.
 
 As you may have guessed at this point, I hate biographies and trying to talk about myself, so I've decided I'm not going to do it. I'm just going to use the front page to talk about whatever seems globally relevant to the blog. 
 

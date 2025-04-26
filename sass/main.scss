@@ -994,6 +994,11 @@ body.prose-page {
     font-weight: 400;
   }
 
+  & > .title {
+    font-size: 1.15em;
+    margin: 1.5em 0 0.75em 0.75em;
+  }
+
   .post-list {
     padding: 0 15px;
 

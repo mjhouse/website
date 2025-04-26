@@ -4,19 +4,21 @@ date = 2025-04-25
 draft = false
 [taxonomies]
 tags=["Politics","Donald Trump"]
+[extra]
+pinned = 'true'
 +++
 
 {{ figure(src="/images/eric_trump_2028.jpg", alt="Eric Trump wearing a 'Trump 2028' hat", caption="It was nice of his dad to let him wear the merchandise.") }}
 
 Since the first time I heard Donald Trump joke about wanting a third term, I took it seriously. I took it seriously, because I've had experience with people like him. They float terrible ideas and then say "it's a *joke*. You're so *thin skinned*. Geez." But if they really like the idea they'll come back to it again and again, trying to find some angle to make it happen. The side effect of this is that it begins to sound less shocking and infuriating every time you hear it. They wear you down. They badger you. Eventually, it might even seem reasonable[^1]. This is what Trump is doing with the idea of a third term. 
 
-At the same time, claiming that his idle speculation about running for a third term is a *joke* allows his supporters to [join in](https://youtu.be/nVD-qjISeC0?t=40). As more and more of his supporters vocally support the idea (mainly as a way to needle liberals), their support gives it a veneer of respectability for all the people who *aren't* in on the joke. 
+At the same time, claiming that his idle speculation about running for a third term is a *joke* allows his supporters to [join in](https://youtu.be/ubo2GnEnpwo?t=305). As more and more of his supporters vocally support the idea (mainly as a way to needle liberals), their support gives it a veneer of respectability for all the people who *aren't* in on the joke. 
 
 After all, crowds of people are chanting "twelve more years" at his rallies. 
 
 People see these chanting crowds and begin to believe that there is poltical *will* behind the idea. They came to the party late, and didn't see the winks and smirks. As more serious support begins to materialize, those who were in on the joke either become serious or leave, and you end up with an actual movement. 
 
-This is why revolutionaries always try to capture radio and television stations, and then broadcast messages claiming *that they've already won*. This is why political candidates *always claim their victory is assured*. Because the appearance of inevitability and public support draws more supporters, and if you can project that illusion convincingly enough (say, by having crowds chant on national television as a *joke*), you can create a movement from *nothing*.
+This is why revolutionaries always try to capture radio and television stations, and then broadcast messages claiming *that they've already won*. This is why political candidates *always claim their victory is assured*. Because the appearance of inevitability and public support draws more supporters, and if you can project that illusion convincingly enough (say, by having crowds chant on national television as a joke), you can create a movement from *nothing*.
 
 While I don't believe that Donald Trump has a master plan to gather support for a third term, I think practically, that's what he's doing. He does this intuitively, out of long habit. He says whatever he wants, and says it with a smile or an innocent expression, and then decides which things are jokes and which aren't after the fact. When you take that behavior and project it out over six years, you end up with something that looks, if you squint just right, like a long-running plot to normalize a third term. 
 
