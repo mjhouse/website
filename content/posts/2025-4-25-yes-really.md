@@ -49,7 +49,7 @@ tags=["Politics","Donald Trump"]
 
     {{ item(
         date='2019-12-07',
-        quote='One of them said, "You know he’s going to win, don’t you? And you know, at the end of his second term, you know he’s not leaving. He’s not leaving. You know that." And I thought he’s a comedian. I thought he was kidding. He’s for real. So now we have to start thinking about that, because it’s not a bad idea.', 
+        quote="One of them said, 'You know he’s going to win, don’t you? And you know, at the end of his second term, you know he’s not leaving. He’s not leaving. You know that.' And I thought he’s a comedian. I thought he was kidding. He’s for real. So now we have to start thinking about that, because it’s not a bad idea.", 
         speaker='Donald Trump',
         source='https://slate.com/news-and-politics/2020/02/trump-jokes-rigged-elections-chaos.html'
     ) }}
