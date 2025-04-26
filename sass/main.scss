@@ -64,6 +64,15 @@ a:focus-visible {
 
 .prose {
 
+  .post-title {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    .status {
+      color: var(--text-pale-color)
+    }
+  }
+
   .series {
     display: flex;
     flex-direction: column;
