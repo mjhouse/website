@@ -6,6 +6,7 @@ draft = false
 tags=["Fiction","Story"]
 [extra]
 prev = '2025-4-24-the-toymaker'
+next = '2025-4-28-the-toymaker'
 series = 'The Toymaker'
 +++
 
