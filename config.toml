@@ -1,6 +1,9 @@
 base_url = "https://blackpath.blog/"
+
 title = "blackpath"
 description = "A place to keep essays and notes on various topics"
+author = "Michael House"
+
 default_language = "en"
 output_dir = "public"
 compile_sass = true
@@ -28,9 +31,10 @@ external_links_no_referrer = true
 smart_punctuation = false
 
 [slugify]
-paths = "on"
+paths = "off"
 taxonomies = "on"
 anchors = "on"
+paths_keep_dates = true
 
 #=========================================================================================
 
@@ -43,6 +47,7 @@ sections = [
   { name = "posts", path = "/posts", is_external = false },
   { name = "tags", path = "/tags", is_external = false },
   { name = "series", path = "/series", is_external = false },
+  { name = "data", path = "/data", is_external = false },
 ]
 blog_section_path = "/posts"
 

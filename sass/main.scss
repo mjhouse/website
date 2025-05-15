@@ -222,11 +222,15 @@ a:focus-visible {
     margin: 1.5em 0;
   }
 
+  tr:first-of-type {
+    font-weight: bold;
+  }
+
   th,
   td {
     line-height: 2;
-    text-align: center;
-    border: 1px solid var(--primary-color);
+    text-align: left;
+    border: 1px solid var(--text-decoration-color);
     padding: 1px 10px;
   }
 
@@ -1646,6 +1650,29 @@ body.tag-single {
   .title {
     font-size: 1.1em;
     margin: 0.5em 15px 2em;
+  }
+}
+
+/* data page
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.prose > #data-info {
+  .data-item {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  dt, dd {
+    display: inline-block;
+    font-size: small;
+    margin: 0;
+  }
+  dt {
+    &::after {
+      content: ':';
+    }
+  }
+  dd {
+    margin-left: 1em;
   }
 }
 

@@ -2,6 +2,7 @@
 title = "Military AI Is More Likely Than You Think"
 date = 2025-04-10
 draft = false
+aliases = [ 'posts/2025-4-10-militarized-ai/' ]
 [taxonomies]
 tags=["AI","Politics","Military"]
 +++

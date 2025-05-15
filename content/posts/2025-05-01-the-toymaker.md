@@ -2,10 +2,11 @@
 title = "Building A Better Watch"
 date = 2025-05-01
 draft = false
+aliases = [ 'posts/2025-5-1-the-toymaker/' ]
 [taxonomies]
 tags=["Fiction","Story"]
 [extra]
-prev = '2025-4-28-the-toymaker'
+prev = '2025-04-28-the-toymaker'
 series = 'The Toymaker'
 +++
 

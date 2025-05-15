@@ -2,6 +2,7 @@
 title = "Eating Meat Is Morally Indefensible"
 date = 2025-04-23
 draft = false
+aliases = [ 'posts/2025-4-23-vegetarianism/' ]
 [taxonomies]
 tags=["Morality","Politics","Vegetarian"]
 +++

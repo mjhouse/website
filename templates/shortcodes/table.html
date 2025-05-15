@@ -1,0 +1,22 @@
+{% set data = load_data(path="content/data/" ~ file, format="csv") %}
+
+<section class="table-wrapper">
+    <table>
+        <tr>
+            {% for header in data.headers %}
+                {% if header %}
+                <td>{{ header }}</td>
+                {% endif %}
+            {% endfor %}
+        </tr>
+        {% for row in data.records %}
+        <tr>
+            {% for col in row %}
+                {% if col %}
+                <td>{{ col }}</td>
+                {% endif %}
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+</section>

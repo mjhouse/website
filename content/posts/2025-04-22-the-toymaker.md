@@ -2,10 +2,11 @@
 title = "A Wizard Comes To Town"
 date = 2025-04-22
 draft = false
+aliases = [ 'posts/2025-4-22-the-toymaker/' ]
 [taxonomies]
 tags=["Fiction","Story"]
 [extra]
-next = '2025-4-24-the-toymaker'
+next = '2025-04-24-the-toymaker'
 series = 'The Toymaker'
 +++
 

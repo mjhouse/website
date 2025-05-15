@@ -1,0 +1,50 @@
+{% import "macros/prose.html" as macros %}
+{% extends "_base.html" %}
+
+{% block page %}homepage{% endblock page%}
+{% block lang %}{% if section.extra.lang %}{{ section.extra.lang }}{% else %}{{ section.lang }}{% endif %}{% endblock lang %}
+{% block title %}{{ config.title }}{% endblock title %}
+{% block desc %}
+  <meta name="description" content="{{ config.description }}">
+{% endblock desc %}
+
+{% block head %}
+{% if config.markdown.highlight_theme == "css" %}
+  {% if config.extra.force_theme == "dark" %}
+    <link id="hl" rel="stylesheet" type="text/css" href="{{ get_url(path='hl-dark.css') }}" />
+  {% else %}
+    <link id="hl" rel="stylesheet" type="text/css" href="{{ get_url(path='hl-light.css') }}" />
+  {% endif %}
+{% endif %}
+{% endblock head %}
+
+{% block content %}
+<div id="wrapper">
+    {{ macros::back_link(path = get_url(path='/')) }}
+
+    <main style="padding-top: 0;" class="layout-list">
+
+        <div class="section-title">
+            <h1>Data</h1>
+            <p>{{ section.content | trim | safe }}</p>
+        </div>
+
+        <div class="post-list">
+            {% for post in section.pages %}
+            <a data-title="{{ post.title }}" data-rank="{{ loop.index }}" class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
+              <span class="title">{{ post.title }}</span>
+              <span class="date">{{ post.date | date(format=section.extra.date_format) }}</span>
+            </a>
+            {% endfor %}
+          </div>
+
+  </main>
+</div>
+{% endblock content %}
+
+{% block script %}
+<script>
+    const url = window.location.href;
+    localStorage.setItem('lastUrl', url);
+</script>
+{% endblock script %}

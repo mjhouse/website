@@ -2,11 +2,12 @@
 title = "Small Magic"
 date = 2025-04-26
 draft = false
+aliases = [ 'posts/2025-4-26-the-toymaker/' ]
 [taxonomies]
 tags=["Fiction","Story"]
 [extra]
-prev = '2025-4-24-the-toymaker'
-next = '2025-4-28-the-toymaker'
+prev = '2025-04-24-the-toymaker'
+next = '2025-04-28-the-toymaker'
 series = 'The Toymaker'
 +++
 

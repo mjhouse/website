@@ -1,0 +1,105 @@
+{% import "macros/prose.html" as macros %}
+{% extends "_base.html" %}
+
+{% block page %}post{% endblock page %}
+{% block lang -%}
+{%- set blog_section_path = config.extra.blog_section_path | trim_start_matches(pat="/") -%}
+{%- set section_md_path = blog_section_path ~ "/_index.md" -%}
+{%- set section = get_section(path=section_md_path, metadata_only=true) -%}
+{%- if page.extra.lang %}{{page.extra.lang}}{% elif section.extra.lang %}{{section.extra.lang}}{% else %}{{page.lang}}{% endif -%}
+{%- endblock lang %}
+
+{% block title %}{{ page.title }}{% endblock title %}
+
+{% block desc %}
+  {% if page.summary %}
+    {% set desc = page.summary %}
+  {% elif page.description %}
+    {% set desc = page.description %}
+  {% elif section.description %}
+    {% set desc = section.description %}
+  {% else %}
+    {% set desc = config.description %}
+  {% endif %}
+  <meta name="description" content="{{ desc }}">
+{% endblock desc %}
+
+{% block head %}
+{% if config.markdown.highlight_theme == "css" %}
+<link id="hl" rel="stylesheet" type="text/css" href="/hl-{% if config.extra.force_theme == "dark" %}dark{% else %}light{% endif %}.css" />
+{% endif %}
+{% endblock head %}
+
+{% block content %}
+<div id="wrapper">
+  <div id="blank"></div>
+  <aside>
+    {% if section.extra.back_to_top %}
+    <button id="back-to-top" aria-label="back to top">
+      {% set icon = load_data(path="static/icon/arrow-up.svg") %}
+      {{ icon | safe }}
+    </button>
+    {% endif %}
+  </aside>
+  <main>
+    {{ macros::back_link(path = get_url(path='/data')) }}
+
+    <div>
+      <article class="prose">
+        <h1 class="post-title">
+          <span>{{ page.title }}</span>
+        </h1>
+        <dl id="data-info">
+            {% if page.extra.file_name %}
+            <div class="data-item">
+                <dt>Filename</dt>
+                <dd><a href="/data/{{ page.extra.file_name }}" target="_blank">{{ page.extra.file_name }}</a></dd>
+            </div>
+            {% endif %}
+
+            {% if page.extra.file_format %}
+            <div class="data-item">
+                <dt>Format</dt>
+                <dd>{{ page.extra.file_format }}</dd>
+            </div>
+            {% endif %}
+
+            {% if page.extra.date_published %}
+            <div class="data-item">
+                <dt>Published</dt>
+                <dd>{{ page.extra.date_published | date(format=section.extra.date_format) }}</dd>
+            </div>
+            {% endif %}
+
+            {% if page.extra.date_archived %}
+            <div class="data-item">
+                <dt>Archived</dt>
+                <dd>{{ page.extra.date_archived | date(format=section.extra.date_format) }}</dd>
+            </div>
+            {% endif %}
+
+            {% if page.extra.source_name %}
+            <div class="data-item">
+                <dt>Source</dt>
+                <dd>{{ page.extra.source_name }}</dd>
+            </div>
+            {% endif %}
+
+            {% if page.extra.source_link %}
+            <div class="data-item">
+                <dt>Url</dt>
+                <dd><a href="{{ page.extra.source_link }}" target="_blank">{{ page.extra.source_link }}</a></dd>
+            </div>
+            {% endif %}
+        </dl>
+
+        {{ page.content | safe }}
+
+      </article>
+
+    </div>
+
+    {% include "_footer.html" %}
+  </main>
+</div>
+{% endblock content %}

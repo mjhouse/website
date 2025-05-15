@@ -2,6 +2,7 @@
 title = "Trump Wants A Third Term"
 date = 2025-04-25
 draft = false
+aliases = [ 'posts/2025-4-25-trump-third-term/' ]
 [taxonomies]
 tags=["Politics","Donald Trump"]
 [extra]

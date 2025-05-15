@@ -2,6 +2,7 @@
 title = "Media Manipulation With AI"
 date = 2025-04-12
 draft = false
+aliases = [ 'posts/2025-4-12-media-and-ai/' ]
 [taxonomies]
 tags=["AI","Politics","Media"]
 +++

@@ -2,11 +2,12 @@
 title = "How To Steal A Road"
 date = 2025-04-24
 draft = false
+aliases = [ 'posts/2025-4-24-the-toymaker/' ]
 [taxonomies]
 tags=["Fiction","Story"]
 [extra]
-prev = '2025-4-22-the-toymaker'
-next = '2025-4-26-the-toymaker'
+prev = '2025-04-22-the-toymaker'
+next = '2025-04-26-the-toymaker'
 series = 'The Toymaker'
 +++
 
