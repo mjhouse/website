@@ -28,7 +28,7 @@ Individuals who may (we'll get to this in a bit) be associated with Tren de Arag
 
 {{ figure(src="/images/cecot_prison_cell.jpg", alt="CECOT prison cell", caption="One that doesn't provide mattresses for their quadruple-stacked steel bunks.") }}
 
-The executive order was published at 3:53PM[^4] and an hour and a half later, the first two planes left for the [CECOT](https://en.wikipedia.org/wiki/Terrorism_Confinement_Center) prison facility in El Salvador. That afternoon around 6:48PM, Judge James Boasberg, hearing an [emergency petition](https://assets.aclu.org/live/uploads/2025/03/COMPLAINT-J.G.G.-v.-TRUMP.pdf) from the ACLU regarding five of the men detained, ordered any flights out of the country that contains deportees under the Alien Enemies act to remain grounded, and for any flights that were in the air to return. The court emailed officials and posted the order online around 7:26PM. 
+The executive order was published at 3:53PM[^4] and an hour and a half later, the first two planes left for the [CECOT](https://en.wikipedia.org/wiki/Terrorism_Confinement_Center) prison facility in El Salvador. That afternoon around 6:48PM, Judge James Boasberg, hearing an [emergency petition](https://assets.aclu.org/live/uploads/2025/03/COMPLAINT-J.G.G.-v.-TRUMP.pdf) from the ACLU regarding five of the men detained, ordered any flights out of the country that contain deportees under the Alien Enemies act to remain grounded, and for any flights that were in the air to return. The court emailed officials and posted the order online around 7:26PM. 
 
 Ten minutes later, the last plane took off, and, in direct violation of this order, all three planes landed in El Salvador early the next morning.
 

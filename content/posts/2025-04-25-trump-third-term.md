@@ -189,6 +189,20 @@ As the end of his second term approaches, I think he will try to turn this from 
         source='https://www.politico.com/news/2025/04/24/trump-organization-2028-campaign-hats-00308024'
     ) }}
 
+    {{ item(
+        date='2025-05-04',
+        quote="I will say this. So many people want me to do it. I have never had requests so strong as that. But it’s something that, to the best of my knowledge, you’re not allowed to do. I don’t know if that’s constitutional that they’re not allowing you to do it or anything else. But, there are many people selling the 2028 hat. But this is not something I’m looking to do.", 
+        speaker='Donald Trump',
+        source='https://www.nbcnews.com/politics/trump-administration/read-full-transcript-president-donald-trump-interviewed-meet-press-mod-rcna203514'
+    ) }}
+
+    {{ item(
+        date='2025-05-13',
+        quote="As you know we won three elections. And some people want us to do a fourth. I don't know. I'll have to think about that. You saw the new hat?… It says Trump 2028.", 
+        speaker='Donald Trump',
+        source='https://www.msnbc.com/rachel-maddow-show/maddowblog/remarks-us-troops-trump-renews-talk-third-term-constitution-rcna207236'
+    ) }}
+
     {{ marker(label='YOU ARE HERE') }}
 
 {% end %}
