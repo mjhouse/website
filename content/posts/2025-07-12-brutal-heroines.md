@@ -24,7 +24,7 @@ Most importantly, I want someone *weird*. Living with violence *makes people wei
 
 You notice it when it's gone though.
 
-What movies like Aeon Flux or Black Widow don't do is show the audience someone *who could plausibly exist*. Heroines have perfect curls, perfect skin, and makeup that never runs. These women are *presented* as being a badass assassins, killers, spies, or soldiers, but there no evidence that they've ever been emotionally or physically impacted by their profession. They're not *weird*, in the way I describe above, they have little muscle, no lines in their faces, and no callous on their hands. 
+What movies like Aeon Flux or Black Widow don't do is show the audience someone *who could plausibly exist*. Heroines have perfect curls, perfect skin, and makeup that never runs. These women are *presented* as being a badass assassins, killers, spies, or soldiers, but there is no evidence that they've ever been emotionally or physically impacted by their profession. They're not *weird*, in the way I describe above, they have little muscle, no lines in their faces, and no callous on their hands. 
 
 Compare Michelle Rodriquez' characters in BloodRayne (Katarin, 2005) and Dungeons & Dragons: Honor Among Thieves (Holga, 2023). Holga is blunt, crude, square, muscular, scarred, burned, and often dirty. She's got lines in her face because Rodriquez is eighteen years older, but rather than try to conceal them, Rodriquez uses them to her advantage when depicting a character who absolutely *would* have lines in her face.
 
@@ -45,6 +45,6 @@ And blue-screen acting aside, everything about her fits with the image of a midd
 
 I like tits, ass, and beautiful women as much as the next (straight) guy, and I even like it in my movies. But don't ruin my immersion by forcing it on a character when it doesn't make any sense. If a movie about gangsters has a scene in a strip club, there are going to be a lot of beautiful women with perfect breasts and round asses walking around in lingerie. That's awesome. I'm here for it. 
 
-But if the character isn't a stripper? If her life is hard, demanding, violent, and dirty? Then for fucks sake, *give her some scars*. Give her *pockets*. Make her skin look rough. Give her bedraggled hair. Have her cuss, mumble, grunt, and spit. Give her *wrinkles*.
+But if the character *isn't* a stripper? If her life is hard, demanding, violent, and dirty? Then for fucks sake, *give her some scars*. Give her *pockets*. Make her skin look rough. Give her bedraggled hair. Have her cuss, mumble, grunt, and spit. Give her *wrinkles*.
 
 If I want lingerie and flawless skin, I can get as much of that as I want. I have unlimited access to the internet. When I want stories, *good* stories, stories that pull me in and make me believe in another world for two hours, that's a much more difficult proposition. I sincerely, deeply appreciate the people who can create those stories, and do it well. For a few hours the other day, despite everything else that was wrong with the film (which was almost everything) Scarlett Johansson did that.
