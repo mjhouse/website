@@ -19,7 +19,7 @@ My *moral intuition*, on the other hand, comes to the same conclusion whether th
 
 If other people are like me, then we all have a fundamental insensitivity to scope[^4]. Large numbers, great distances, vast stretches of time. We can't *really* grasp these things. We can't give people on the other side of those great distances the empathy that they deserve. We can't grasp that a million deaths is one million times more tragic than a single death. It doesn't kick us in the gut the way someone dying next to us does. But, in an interesting twist, we've figured out a way to work around that, if we want to. In the immortal words of Jeff, from the show Community-
 
-> I can pick up this pencil, tell you it's name is "Steve", and go like this [breaks the penicl], and part of you *dies*.  
+> I can pick up this pencil, tell you it's name is "Steve", and go like this [breaks the pencil], and part of you *dies*.  
 > -- [Jeff](https://youtu.be/z906aLyP5fg?si=toU8Hr22nE-t19AJ)
 
 The reason we can do this is because we're imaginative. We've adapted to our scope insensitivity by learning to *imagine* what other people might be going through. We take it *personally*. Sometimes the thing we're sympathizing with isn't even alive. This is mostly great! We have this innate flaw that makes it difficult for us to give events the moral weight that they deserve, and we've managed to fix it (sort of) by using another innate feature of humanity- imagination. But in another way, it's not, because we can *turn it off*.
