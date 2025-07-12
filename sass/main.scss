@@ -180,6 +180,19 @@ a:focus-visible {
     margin: 5px auto;
   }
 
+  .gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    & > img {
+      max-width: 50%;
+      height: auto;
+      flex-basis: 25%;
+      flex-shrink: 1;
+    }
+  }
+
   blockquote {
     border-left: 1.5px var(--text-decoration-color) solid;
     padding-left: 16px;
