@@ -36,8 +36,7 @@ Everything about the character highlights that she's a violent woman who has don
 
 Compare all of that to Katarin in the movie BloodRayne, and you immediately see the difference. Katarin is slimmer and less muscular, her skin is smooth and unblemished, her hair looks like it was recently washed and combed, and all of her equipment is scratch-free. I'm not even sure her pants have *pockets*. She looks like a nineteen year old girl going to a halloween party.
 
-Zora Bennett in Jurassic World: Rebirth is a mercenary. She's supposed to be some flavor of ex-military, now working as a fixer who can exfiltrate sensitive material and people into and out of locations where they're not supposed to be, often while dealing with hostile actors of one sort or another. She's been doing it for decades.
-
+Zora Bennett in Jurassic World: Rebirth is a mercenary. She's supposed to be some flavor of ex-military, now working as a fixer who can move sensitive material and people into and out of locations where they're not supposed to be, often while dealing with hostile actors of one sort or another. She's been doing it for decades.
 
 {{ figure(src="/images/zora_jurassic_rebirth.jpg", alt="Zora from Jurassic Park Rebirth", caption="Naturally, I assumed she would end up wearing a leather corset at some point.") }}
 
